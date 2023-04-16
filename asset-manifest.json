@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PlanificadorYTareas/static/css/main.2a43b995.css",
+    "main.js": "/PlanificadorYTareas/static/js/main.dc70b9f4.js",
+    "static/js/787.502a2359.chunk.js": "/PlanificadorYTareas/static/js/787.502a2359.chunk.js",
+    "static/media/logo.png": "/PlanificadorYTareas/static/media/logo.7a8be7cc10a40fc67dd2.png",
+    "index.html": "/PlanificadorYTareas/index.html",
+    "main.2a43b995.css.map": "/PlanificadorYTareas/static/css/main.2a43b995.css.map",
+    "main.dc70b9f4.js.map": "/PlanificadorYTareas/static/js/main.dc70b9f4.js.map",
+    "787.502a2359.chunk.js.map": "/PlanificadorYTareas/static/js/787.502a2359.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a43b995.css",
+    "static/js/main.dc70b9f4.js"
+  ]
+}
